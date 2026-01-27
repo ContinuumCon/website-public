@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ContinuumCon</title>
+  <meta name="description" content="ContinuumCon: The cybersecurity conference that never ends.">
+  <link rel="icon" href="/website-public/favicon.png" type="image/png">
+  <link rel="stylesheet" href="/website-public/assets/main.css">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PXNWMJD3');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:site_name" content="ContinuumCon">
+  <meta property="og:title" content="Schedule">
+  <meta property="og:description" content="ContinuumCon is the cybersecurity conference that never ends. It's a hands-on workshop and interactive lab environment that meets you where you are. Sessions range from foundational concepts to cutting-edge research, ensuring there's something for everyone and all levels of experience.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.continuumcon.com/">
+  <meta property="og:image" content="/website-public/assets/meta-social.jpg">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Schedule">
+  <meta name="twitter:description" content="ContinuumCon is the cybersecurity conference that never ends. It's a hands-on workshop and interactive lab environment that meets you where you are. Sessions range from foundational concepts to cutting-edge research, ensuring there's something for everyone and all levels of experience.">
+  <meta name="twitter:image" content="/website-public/assets/meta-social.jpg">
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXNWMJD3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <header>
+    <nav class="navbar">
+      <a href="/website-public/" class="navbar-logo" aria-label="ContinuumCon Home">
+        <img src="/website-public/assets/continuumcon-logo.svg" alt="ContinuumCon Logo" height="40" style="vertical-align:middle;">
+      </a>
+      <button class="navbar-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav">
+        <span class="navbar-toggle-bar"></span>
+        <span class="navbar-toggle-bar"></span>
+        <span class="navbar-toggle-bar"></span>
+      </button>
+      <ul class="navbar-links" id="site-nav">
+        <li><a href="/website-public/">Home</a></li>
+        <li><a href="/website-public/tickets/">Tickets</a></li>
+        <li><a href="/website-public/schedule/">Schedule</a></li>
+        <li><a href="/website-public/speakers/">Speakers</a></li>
+        <li><a href="/website-public/sponsorship/">Sponsorship</a></li>
+        <li><a href="/website-public/ctf/">CTF</a></li>
+        <li><a href="/website-public/cfp/">CFP</a></li>
+        <li class="navbar-link--mobile-only"><a href="/website-public/about/">About</a></li>
+        <li class="navbar-link--mobile-only"><a href="/website-public/community-rules/">Community Rules</a></li>
+        <li class="navbar-link--mobile-only"><a href="/website-public/contact/">Contact</a></li>
+          <li class="navbar-more" aria-haspopup="true">
+            <button class="navbar-more-btn" type="button" aria-expanded="false">More ▾</button>
+            <ul class="navbar-more-list">
+              <li><a href="/website-public/about/">About</a></li>
+              <li><a href="/website-public/community-rules/">Community Rules</a></li>
+              <li><a href="/website-public/contact/">Contact</a></li>
+            </ul>
+          </li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="page-background" aria-hidden="true"></div>
+
+  <main>
+    <div class="page-center">
+
+  <h1 id="schedule">Schedule</h1>
+
+  <p class="schedule-disclaimer">Schedule time slots and structure are subject to change as we approach the conference date. Please check back for the most up-to-date information.</p>
+
+  <div class="add-to-calendar-wrap">
+    <div class="calendar-pills">
+      <a class="cal-pill" id="import-pill" href="/assets/continuumcon-schedule.ics" download="" data-ics-path="/assets/continuumcon-schedule.ics">
+        <img src="/website-public/assets/icons/calendar.webp" alt="Import schedule" />
+        <span>Import schedule</span>
+      </a>
+      <a class="cal-pill" id="subscribe-pill" href="#" rel="noopener noreferrer" data-ics-path="/assets/continuumcon-schedule.ics">
+        <img src="/website-public/assets/icons/calendar.webp" alt="Subscribe" />
+        <span>Subscribe</span>
+      </a>
+      <a href="#" data-open-calendar-help="" class="cal-help-inline">How to add</a>
+    </div>
+  </div>
+
+  <!-- Import/Subscribe helper modal -->
+  <div id="calendar-helper-modal" class="modal" aria-hidden="true" style="display:none;">
+  <div class="modal-backdrop" data-modal-close=""></div>
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="calendar-helper-title" tabindex="-1">
+    <button class="modal-close" data-modal-close="" aria-label="Close">×</button>
+    <h2 id="calendar-helper-title">Add schedule to your calendar</h2>
+    <div class="modal-actions">
+      <div class="modal-section">
+        <h3 class="modal-section-title">Subscribe</h3>
+        <p class="modal-section-desc">Subscribe to the hosted calendar so your device receives updates automatically.</p>
+        <p class="modal-section-code">Subscription URL: <code id="subscription-url-code">/assets/continuumcon-schedule.ics</code></p>
+        <p class="modal-section-examples"><strong>Gmail</strong>: Google Calendar → Other calendars (+) → "From URL" → paste the URL.</p>
+        <p class="modal-section-examples"><strong>Outlook (web)</strong>: Add calendar → Subscribe from web → paste the URL.</p>
+      </div>
+
+      <div class="modal-section">
+        <h3 class="modal-section-title">Import (one-time)</h3>
+        <p class="modal-section-desc">Download the .ics file and import it into your calendar app if you prefer a manual copy. Imported events will not receive future updates.</p>
+        <p class="modal-section-code">Download link: <code id="download-url-code">/assets/continuumcon-schedule.ics</code></p>
+        <ol class="modal-section-examples">
+          <li><strong>Outlook (desktop):</strong> File → Open &amp; Export → Import/Export → Import an iCalendar (.ics) and follow the prompt to import into a calendar.</li>
+          <li><strong>Thunderbird (Lightning):</strong> Events and Tasks → Import, then select the downloaded .ics file and choose the calendar to add to.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <script>
+// Polyfill for Element.matches() if needed by closest polyfill
+if (!Element.prototype.matches) {
+  Element.prototype.matches = Element.prototype.msMatchesSelector ||
+                               Element.prototype.webkitMatchesSelector ||
+                               function(selector) {
+                                 var matches = (this.document || this.ownerDocument).querySelectorAll(selector);
+                                 var i = matches.length;
+                                 while (--i >= 0 && matches[i] !== this) {}
+                                 return i > -1;
+                               };
+}
+
+// Polyfill for Element.closest() for older browsers (IE11, etc.)
+if (!Element.prototype.closest) {
+  Element.prototype.closest = function(selector) {
+    var el = this;
+    while (el && el.nodeType === 1) {
+      if (el.matches(selector)) {
+        return el;
+      }
+      el = el.parentNode;
+    }
+    return null;
+  };
+}
+
+document.addEventListener('click', function (e) {
+  var open = e.target.closest('[data-open-calendar-help]');
+  if (open) {
+    var m = document.getElementById('calendar-helper-modal');
+    if (m) {
+      // remember the element that had focus to return focus on close
+      m._lastActive = document.activeElement;
+      m.setAttribute('aria-hidden', 'false');
+      m.classList.add('is-open');
+      m.style.display = 'block';
+      // focus the dialog panel for accessibility
+      var panel = m.querySelector('.modal-panel');
+      try {
+        if (panel && typeof panel.focus === 'function') panel.focus();
+      } catch (err) {
+        // ignore
+      }
+    }
+    return;
+  }
+  if (e.target.closest('[data-modal-close]')) {
+    var m2 = document.getElementById('calendar-helper-modal');
+    if (m2) {
+      m2.setAttribute('aria-hidden', 'true');
+      m2.classList.remove('is-open');
+      m2.style.display = 'none';
+      // restore focus to the element that opened the modal
+      try {
+        if (m2._lastActive && typeof m2._lastActive.focus === 'function') m2._lastActive.focus();
+      } catch (err) {}
+    }
+    return;
+  }
+});
+</script>
+
+  <script>
+(function() {
+  function setCalendarLinks() {
+    var subscribe = document.getElementById('subscribe-pill');
+    var importEl = document.getElementById('import-pill');
+    var codeEl = document.getElementById('subscription-url-code');
+    var downloadCode = document.getElementById('download-url-code');
+    var path = '/assets/continuumcon-schedule.ics';
+    // prefer explicit data-ics-path if provided on either element
+    if (subscribe && subscribe.getAttribute('data-ics-path')) {
+      path = subscribe.getAttribute('data-ics-path');
+    } else if (importEl && importEl.getAttribute('data-ics-path')) {
+      path = importEl.getAttribute('data-ics-path');
+    }
+
+    var host = window.location.host;
+    var proto = window.location.protocol === 'https:' ? 'https:' : 'http:';
+
+    if (host) {
+      var abs = proto + '//' + host + path;
+      var webcal = 'webcal://' + host + path;
+      if (subscribe) {
+        subscribe.setAttribute('href', webcal);
+        subscribe.removeAttribute('aria-disabled');
+        subscribe.removeAttribute('title');
+        subscribe.removeAttribute('tabindex');
+      }
+      if (importEl) importEl.setAttribute('href', abs);
+      if (codeEl) codeEl.textContent = abs;
+      if (downloadCode) downloadCode.textContent = abs;
+    } else {
+      // Local file preview (file:///) or no host available. Disable subscribe
+      // since webcal:// requires a host, and set import to a local file URL
+      // so local testers can still download the file.
+      if (subscribe) {
+        subscribe.setAttribute('href', '#');
+        subscribe.setAttribute('aria-disabled', 'true');
+        subscribe.setAttribute('title', 'Subscribe is disabled in local preview; open via HTTP to enable');
+        subscribe.setAttribute('tabindex', '-1');
+      }
+      var localPath = path;
+      try {
+        if (window.location.protocol === 'file:') {
+          // location.pathname on Windows starts with /C:/...; normalize
+          localPath = 'file://' + window.location.pathname;
+        }
+      } catch (e) {
+        localPath = path;
+      }
+      if (importEl) importEl.setAttribute('href', localPath);
+      if (codeEl) codeEl.textContent = localPath;
+      if (downloadCode) downloadCode.textContent = localPath;
+    }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setCalendarLinks);
+  else setCalendarLinks();
+})();
+</script>
+
+  <div class="schedule-days">
+
+  
+
+  <details class="schedule-day-card">
+    <summary>
+      <div class="schedule-day-header-inner">
+        <div class="schedule-day-header-left">
+          <span class="schedule-day-label">ContinuumCon Day 1</span>
+        </div>
+        <div class="schedule-day-header-right">
+          <span class="schedule-day-label" title="Friday, June 12, 2026">Fri, June 12, 2026</span>
+        </div>
+      </div>
+      
+    </summary>
+
+    <div class="schedule-day-body">
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">09:00-09:30</span>
+            <span class="schedule-session-title">Conference Opening Remarks</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">09:30-10:15</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">10:15-11:00</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">11:00-11:45</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">11:45-12:30</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">12:30-13:30</span>
+            <span class="schedule-session-title">Midday Break</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">13:30-14:15</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">14:15-15:00</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">15:00-15:45</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">15:45-16:30</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">16:30-17:00</span>
+            <span class="schedule-session-title">End of Day 1 Remarks</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+    </div>
+
+  </details>
+
+  
+
+  <details class="schedule-day-card">
+    <summary>
+      <div class="schedule-day-header-inner">
+        <div class="schedule-day-header-left">
+          <span class="schedule-day-label">ContinuumCon Day 2</span>
+        </div>
+        <div class="schedule-day-header-right">
+          <span class="schedule-day-label" title="Saturday, June 13, 2026">Sat, June 13, 2026</span>
+        </div>
+      </div>
+      
+    </summary>
+
+    <div class="schedule-day-body">
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">09:00-09:30</span>
+            <span class="schedule-session-title">Day 2 Opening Remarks</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">09:30-10:15</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">10:15-11:00</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">11:00-11:45</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">11:45-12:30</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">12:30-13:30</span>
+            <span class="schedule-session-title">Midday Break</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">13:30-14:15</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">14:15-15:00</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">15:00-15:45</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">15:45-16:30</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">16:30-17:00</span>
+            <span class="schedule-session-title">End of Day 2 Remarks</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+    </div>
+
+  </details>
+
+  
+
+  <details class="schedule-day-card">
+    <summary>
+      <div class="schedule-day-header-inner">
+        <div class="schedule-day-header-left">
+          <span class="schedule-day-label">ContinuumCon Day 3</span>
+        </div>
+        <div class="schedule-day-header-right">
+          <span class="schedule-day-label" title="Sunday, June 14, 2026">Sun, June 14, 2026</span>
+        </div>
+      </div>
+      
+    </summary>
+
+    <div class="schedule-day-body">
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">09:00-09:30</span>
+            <span class="schedule-session-title">Day 3 Opening Remarks</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">09:30-10:15</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">10:15-11:00</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">11:00-11:45</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        
+        
+
+        <div class="schedule-session">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">11:45-12:30</span>
+            <span class="schedule-session-title">Workshop TBD</span>
+            
+            
+          </div>
+        </div>
+
+        
+
+      
+
+        
+
+        <div class="schedule-session schedule-session--block schedule-session-static">
+          <div class="schedule-session-summary">
+            <span class="schedule-session-time">12:30-13:00</span>
+            <span class="schedule-session-title">Conference Closing Remarks</span>
+            
+          </div>
+        </div>
+
+        
+
+      
+    </div>
+
+  </details>
+
+  
+
+</div>
+
+</div>
+
+  </main>
+  <footer>
+    <p>&copy; 2026 ContinuumCon. All rights reserved.</p>
+  </footer>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var toggle = document.querySelector('.navbar-toggle');
+      var links = document.querySelector('.navbar-links');
+      if (!toggle || !links) return;
+
+      toggle.addEventListener('click', function () {
+        var isOpen = links.classList.toggle('navbar-links--open');
+        toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      });
+    });
+    // Ensure consistent 'More' vs full-nav behavior across pages and viewport changes
+    (function () {
+      function adjustNavForWidth() {
+        var more = document.querySelector('.navbar-more');
+        var mobileOnly = document.querySelectorAll('.navbar-link--mobile-only');
+        if (!more || !mobileOnly) return;
+        var isMobile = window.innerWidth <= 768;
+        // Desktop: show More button, hide mobile-only inline links
+        if (!isMobile) {
+          more.style.display = '';
+          mobileOnly.forEach(function (el) { el.style.display = 'none'; });
+        } else {
+          // Mobile: hide More button (CSS handles), show mobile-only links
+          more.style.display = 'none';
+          mobileOnly.forEach(function (el) { el.style.display = 'block'; });
+        }
+      }
+
+      window.addEventListener('resize', adjustNavForWidth);
+      document.addEventListener('DOMContentLoaded', adjustNavForWidth);
+      // run once immediately
+      adjustNavForWidth();
+    })();
+  </script>
+</body>
+</html>

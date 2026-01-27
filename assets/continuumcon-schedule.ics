@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+PRODID:-//ContinuumCon//Schedule//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ContinuumCon Schedule
+DTSTAMP:20260127T011755Z
+BEGIN:VEVENT
+UID:e912c1d1-ecea-47c0-9eae-506531fa72b2@continuumcon.local
+SUMMARY:Conference Opening Remarks
+DTSTART:20260612T140000Z
+DTEND:20260612T143000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2d65df00-560b-402a-9622-6ee4402bfdf2@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T143000Z
+DTEND:20260612T151500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6233328f-f68b-4501-8b4a-5a87f1ce1d06@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T151500Z
+DTEND:20260612T160000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:753e0c6a-e23a-48b7-80da-c3150e288baa@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T160000Z
+DTEND:20260612T164500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7a0e9506-356b-44e2-9e23-050ab767a2bb@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T164500Z
+DTEND:20260612T173000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:eebaa208-4819-48a1-81f8-082ddaada0ce@continuumcon.local
+SUMMARY:Midday Break
+DTSTART:20260612T173000Z
+DTEND:20260612T183000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:65d7730e-9bb1-4ae8-993a-f1021c1f853f@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T183000Z
+DTEND:20260612T191500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b2e1753c-c22f-4082-a34b-d5728f5aa577@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T191500Z
+DTEND:20260612T200000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3c0582a1-c940-4607-94f2-3d2182de4764@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T200000Z
+DTEND:20260612T204500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7af53030-a5bd-41f6-827f-ee48027eff84@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260612T204500Z
+DTEND:20260612T213000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a8de1791-15c1-4903-add3-7e81a83e0168@continuumcon.local
+SUMMARY:End of Day 1 Remarks
+DTSTART:20260612T213000Z
+DTEND:20260612T220000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:50188118-0507-44f3-99fd-50d997f8f13a@continuumcon.local
+SUMMARY:Day 2 Opening Remarks
+DTSTART:20260613T140000Z
+DTEND:20260613T143000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bfb0811c-657f-4467-8a62-cbd7f6e774de@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T143000Z
+DTEND:20260613T151500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c6431b36-ff1a-4f93-89c2-37f54413fa7a@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T151500Z
+DTEND:20260613T160000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:26fe5743-fc48-483a-8f44-e6e197ab7f14@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T160000Z
+DTEND:20260613T164500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1f06a5a7-2dd8-4a96-8f31-b6cbe1d3a8d4@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T164500Z
+DTEND:20260613T173000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:165b1903-153b-43e2-abff-09626324e4c9@continuumcon.local
+SUMMARY:Midday Break
+DTSTART:20260613T173000Z
+DTEND:20260613T183000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c9f341cc-126e-45ff-b175-6f328e918e79@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T183000Z
+DTEND:20260613T191500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6e4a9ccf-1332-448c-8bfd-57df699403d1@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T191500Z
+DTEND:20260613T200000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:85175445-8267-4c7a-a265-aab0b77830fc@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T200000Z
+DTEND:20260613T204500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8a569ba3-d8e8-476b-87fe-c871993fe1b5@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260613T204500Z
+DTEND:20260613T213000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ade8ab75-de77-4356-8d2e-c41a47932693@continuumcon.local
+SUMMARY:End of Day 2 Remarks
+DTSTART:20260613T213000Z
+DTEND:20260613T220000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b816c28a-1f56-47a2-aed9-84f28fdc4dc2@continuumcon.local
+SUMMARY:Day 3 Opening Remarks
+DTSTART:20260614T140000Z
+DTEND:20260614T143000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5eb76f51-bb61-45d1-b570-dd2d315ad0a8@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260614T143000Z
+DTEND:20260614T151500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:84a52c3f-6fc5-4944-9661-1696bdf0fdfc@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260614T151500Z
+DTEND:20260614T160000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1f0e3e29-8833-44b5-85cc-af3870b5282c@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260614T160000Z
+DTEND:20260614T164500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c08aafbe-2e53-4ae1-a543-f4ccc306cfd5@continuumcon.local
+SUMMARY:Workshop TBD
+DTSTART:20260614T164500Z
+DTEND:20260614T173000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7778dc8d-2a4f-47ed-bde3-72afd239811d@continuumcon.local
+SUMMARY:Conference Closing Remarks
+DTSTART:20260614T173000Z
+DTEND:20260614T180000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+END:VCALENDAR
