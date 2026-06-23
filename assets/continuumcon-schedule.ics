@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+PRODID:-//ContinuumCon//Schedule//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ContinuumCon Schedule
+DTSTAMP:20260623T122942Z
+BEGIN:VEVENT
+UID:2285b150-5074-4342-a5f5-7bd1fa0bc8a6@continuumcon.local
+SUMMARY:Opening / Welcome to ContinuumCon
+DTSTART:20260612T160000Z
+DTEND:20260612T163000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ea904667-a01f-46ae-83bc-ca231c7d27c7@continuumcon.local
+SUMMARY:Day 1 Keynote: Panel AMA
+DTSTART:20260612T163000Z
+DTEND:20260612T171500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:71404911-dc5e-42ec-8540-d9f9f98f1c06@continuumcon.local
+SUMMARY:Killing Active Directory Attack Paths Once and For All
+DTSTART:20260612T173000Z
+DTEND:20260612T181500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8193bf6f-303b-4346-82d2-16a9887539e5@continuumcon.local
+SUMMARY:Instant API Hacker
+DTSTART:20260612T183000Z
+DTEND:20260612T191500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a0a4cb84-29d5-48e0-9319-7f2716feebf8@continuumcon.local
+SUMMARY:Break
+DTSTART:20260612T191500Z
+DTEND:20260612T194500Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:584d0401-5fbc-4210-bc0c-1237e5913e9d@continuumcon.local
+SUMMARY:Tactical GRC - Turning Governance Into a Force Multiplier for Security Teams
+DTSTART:20260612T200000Z
+DTEND:20260612T204500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a9f42c71-9739-4a5d-b071-00f6c20ec2b6@continuumcon.local
+SUMMARY:Hunting Prompt Injection: Breaking AI Applications and CI/CD Pipelines
+DTSTART:20260612T210000Z
+DTEND:20260612T214500Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:365ecfc4-68c8-470b-94bc-2d826b1a427a@continuumcon.local
+SUMMARY:CCCTF 2026 Kickoff - Envelope: DFIR Report
+DTSTART:20260612T220000Z
+DTEND:20260612T222000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4236866e-6a6a-40e0-a940-2dd318909633@continuumcon.local
+SUMMARY:End of Day Review
+DTSTART:20260612T222000Z
+DTEND:20260612T223000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c4e0407a-ab39-4ba9-97c4-08b6e58f1836@continuumcon.local
+SUMMARY:Day 2 Opening
+DTSTART:20260613T160000Z
+DTEND:20260613T161500Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2fc26a11-3142-4e04-bcb2-25dc8ef1909a@continuumcon.local
+SUMMARY:Day 2 Keynote AMA: Spicy Rant!
+DTSTART:20260613T161500Z
+DTEND:20260613T170000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fd12c754-a2da-4a77-9420-8150cb656551@continuumcon.local
+SUMMARY:Escaping Sandboxes with AI
+DTSTART:20260613T171500Z
+DTEND:20260613T180000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6a266951-03d7-4fe7-983f-6de27ba63f9a@continuumcon.local
+SUMMARY:Prompt Injection Fundamentals & Hack-Along
+DTSTART:20260613T181500Z
+DTEND:20260613T190000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e059d196-e475-4340-91b1-cf2f9a5826b1@continuumcon.local
+SUMMARY:Break
+DTSTART:20260613T190000Z
+DTEND:20260613T193000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1ccd3ac0-168b-47b0-b444-95b75ceb28f4@continuumcon.local
+SUMMARY:Practical Security Engineering
+DTSTART:20260613T194500Z
+DTEND:20260613T203000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:524f3e74-f241-4d63-885f-594a53584413@continuumcon.local
+SUMMARY:StegoDefender: Hunting Malware Hidden in Plain Sight - Advanced Steganography Detection & Payload Extraction
+DTSTART:20260613T204500Z
+DTEND:20260613T213000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2ccf076f-068d-4c5f-9a35-0dd51b032469@continuumcon.local
+SUMMARY:Iranian & Nation-State APT Attacks
+DTSTART:20260613T214500Z
+DTEND:20260613T223000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a52db75a-e63d-451b-b3eb-a0e344649229@continuumcon.local
+SUMMARY:End of Day Review & CTF Check-In
+DTSTART:20260613T223000Z
+DTEND:20260613T230000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1c3644fc-1b24-4954-aff8-e8669a725caf@continuumcon.local
+SUMMARY:Day 3 Opening
+DTSTART:20260614T160000Z
+DTEND:20260614T161500Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:16b8fbaf-964d-4880-ba7d-4cb8f10487fd@continuumcon.local
+SUMMARY:How to Analyze Malware
+DTSTART:20260614T161500Z
+DTEND:20260614T170000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:05098f5a-190e-483e-8eff-4c821e982c2c@continuumcon.local
+SUMMARY:Smarter AWS WAF: Reduce Noise, Detect Threats & Automate Response
+DTSTART:20260614T171500Z
+DTEND:20260614T180000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a099b387-4b3e-4d37-85fa-25e115b64829@continuumcon.local
+SUMMARY:Analyzing WannaCry: A Forensic Method for Recovering Ransomware Data with Open-Source Software
+DTSTART:20260614T181500Z
+DTEND:20260614T190000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:19519d52-dbed-4280-a00b-1706b2fe5957@continuumcon.local
+SUMMARY:Roll Your Own Analyst
+DTSTART:20260614T191500Z
+DTEND:20260614T200000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:266adeed-cfef-41d5-b836-3408d29da3f6@continuumcon.local
+SUMMARY:Offensive Threat Intel: Tracking & Disrupting Adversaries for Fun
+DTSTART:20260614T201500Z
+DTEND:20260614T210000Z
+DESCRIPTION:TBD\nLevel: All Levels\n\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+
+BEGIN:VEVENT
+UID:63399815-c98b-431a-bfa0-50fb4e96a1aa@continuumcon.local
+SUMMARY:Conference Wrap-Up & CTF Results
+DTSTART:20260614T210000Z
+DTEND:20260614T213000Z
+DESCRIPTION:\nWatch the stream:\n- https://youtube.example.com/continuumcon\n- https://twitch.example.com/continuumcon\n\nAccess ContinuumCon content:\n- https://conference.example.com
+END:VEVENT
+END:VCALENDAR
